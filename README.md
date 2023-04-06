@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gangesh Basker</h1>
+<p align="middle"> <img src="https://user-images.githubusercontent.com/72274851/152816504-1f9f0a08-82c8-41dd-86c6-e1338e337888.gif" width="200px">
+<h1 align="center"> I'm Gangesh Basker <img src="https://user-images.githubusercontent.com/72274851/152804344-275f01b6-3d85-4a24-94a8-c449e516e52a.gif" width="40px"></h1>
 <h3 align="center">A passionate Software Engineer and AI/ML enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,11 +11,11 @@
 
 - 🔭 I’m currently working on **Video Summarization using deep learning**
 
-- 💬 Ask me about **deep learning**
+- 👯 I’m looking to collaborate on **projects**
 
-- 📫 How to reach me **gangeshbasker@gmail.com**
+- 📫 How to reach me **:[Linkedin - @Gangesh Basker](https://www.linkedin.com/in/gangesh-basker-5b4258260/)**
 
-- ⚡ Fun fact **I am funny**
+- 😄 Pronouns:He/his
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
